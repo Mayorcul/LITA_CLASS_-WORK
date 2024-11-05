@@ -46,7 +46,7 @@ It involves the exploring of the data to answer some questions about the Data su
 
 ### Data Analysis
 ---
-This is where we include our Data for cleaning, transforming, visualizating and analysis in Excel;
+This is where we include our Data for cleaning, transforming, visualizing and analysis in Excel;
 
 ```Excel
  =IF(J2 <=20,"low",IF(J2 <=50,"medium","high"))
