@@ -53,6 +53,7 @@ This is where we include our Data for cleaning, transforming, visualizating and 
  ```
 
 ### Data Visualization
+![Dataset](https://github.com/user-attachments/assets/2ab2af2a-8a9d-4480-84ea-2facf29da6f7)
 
-
+![Bar chart](https://github.com/user-attachments/assets/66d4ebbb-5f29-4eaf-9450-efc67c3ac1b1)
 
