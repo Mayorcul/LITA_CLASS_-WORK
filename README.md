@@ -1,7 +1,18 @@
 # LITA_CLASS_-WORK
 
 ### Project Tittle: Sales Analysis 
-
+ [Project Overview](#project-overview)
+ 
+ Data Sources
+ 
+ Tools Used
+ 
+ Data Cleaning and Preparation
+ 
+ Exploratory Data Analysis
+ 
+ Data Analysis
+ 
 ### Project Overview
 ---
 This project aims to analyze sales data to gain insights into sales performance, identify trends, and make informed business decisions, by analyzing the various data parameters in the data received.
@@ -39,4 +50,9 @@ This is where we include our Data for cleaning, transforming, visualizating and 
 
 ```Excel
  =IF(J2 <=20,"low",IF(J2 <=50,"medium","high"))
- ```Excel
+ ```
+
+### Data Visualization
+
+
+
